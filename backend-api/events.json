@@ -1,6 +1,13 @@
 {
     "events": [
         {
+            "title": "Testing",
+            "image": "https://images.shiksha.com/mediadata/images/articles/1583747992phpzaxKKK.jpeg",
+            "date": "2023-03-30",
+            "description": "Test",
+            "id": "b389b758-ec20-4556-805e-4e9628246838"
+        },
+        {
             "date": "2022-10-01",
             "description": "Some awesome event!",
             "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9",
