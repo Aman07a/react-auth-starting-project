@@ -1,10 +1,6 @@
 const express = require("express");
 const { add, get } = require("../data/user");
-const {
-  createJSONToken,
-  validatePassword,
-  isValidPassword,
-} = require("../util/auth");
+const { createJSONToken, isValidPassword } = require("../util/auth");
 const { isValidEmail, isValidText } = require("../util/validation");
 
 const router = express.Router();
